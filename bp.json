@@ -5,7 +5,7 @@
     "candidate_name": "TOKENIKA",
     "website": "https://tokenika.io",
     "code_of_conduct":"https://steemit.com/eos/@tokenika/tokenika-official-candidacy-for-the-eos-block-producer-node-full-specification",
-    "ownership_disclosure":"",
+    "ownership_disclosure":"http://tokenika.io/bp-compliance",
     "email":"contact@tokenika.io",
     "branding":{
       "logo_256":"https://tokenika.github.io/digital/bp/tokenika_256x256.png",
@@ -33,8 +33,8 @@
   "nodes": [
     {
       "location": {
-        "name": "Katowice",
-        "country": "Poland",
+        "name": "Poland",
+        "country": "PL",
         "latitude": 50.2,
         "longitude": 19.0
       },
