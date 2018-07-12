@@ -13,20 +13,20 @@
       "logo_svg":""
     },
     "location": {
-      "name": "Warsaw",
-      "country": "Poland",
+      "name": "Poland",
+      "country": "PL",
       "latitude": 52.2,
       "longitude": 21.0
     },
     "social": {
-      "steemit": "https://steemit.com/@tokenika",
-      "twitter": "https://twitter.com/tokenika_io",
-      "youtube": "https://www.youtube.com/channel/UCWloHGgpHAFfx81Nt0F7eUg",
-      "facebook": "https://www.facebook.com/tokenika.io/",
-      "github":"https://github.com/tokenika",
+      "steemit": "tokenika",
+      "twitter": "tokenika_io",
+      "youtube": "UCWloHGgpHAFfx81Nt0F7eUg",
+      "facebook": "tokenika.io",
+      "github":"tokenika",
       "reddit": "",
       "keybase": "perduta",
-      "telegram": "https://t.me/tokenika",
+      "telegram": "tokenika",
       "wechat":"Marcin_Tokenika"
     }
   },
@@ -38,24 +38,11 @@
         "latitude": 50.2,
         "longitude": 19.0
       },
-      "node_type": "seed",
+      "node_type": "full",
       "p2p_endpoint": "api.tokenika.io:9876",
       "bnet_endpoint": "api.tokenika.io:4321",
       "api_endpoint": "http://api.tokenika.io",
       "ssl_endpoint": "https://api.tokenika.io"
-    },
-    {
-      "location": {
-        "name": "Warsaw",
-        "country": "Poland",
-        "latitude": 52.2,
-        "longitude": 21.0
-      },
-      "node_type":"producer",
-      "p2p_endpoint": "",
-      "bnet_endpoint": "",
-      "api_endpoint": "",
-      "ssl_endpoint": ""
     }
   ]
 }
